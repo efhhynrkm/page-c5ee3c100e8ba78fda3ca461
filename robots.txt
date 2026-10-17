@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-7ac21a6abc.geflccn.cn/sitemap.xml
